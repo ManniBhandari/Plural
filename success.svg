@@ -1,0 +1,36 @@
+<svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3" filter="url(#filter0_f)">
+<circle cx="42" cy="42" r="32" fill="url(#paint0_radial)"/>
+</g>
+<g filter="url(#filter1_i)">
+<circle cx="42" cy="33" r="32" fill="url(#paint1_radial)"/>
+</g>
+<path d="M67.3078 13.414L43.5 37.2218L35.3891 29.1109C33.2412 26.963 29.7588 26.963 27.6109 29.1109C25.463 31.2588 25.463 34.7412 27.6109 36.8891L39.6109 48.8891C41.7588 51.037 45.2412 51.037 47.3891 48.8891L72.6161 23.6621C71.4721 19.9064 69.6559 16.4437 67.3078 13.414Z" fill="white"/>
+<defs>
+<filter id="filter0_f" x="0" y="0" width="84" height="84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_i" x="10" y="1" width="64" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.59 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23.9906 10.0246) rotate(63.2939) scale(95.6936 306285)">
+<stop stop-color="#327BE6"/>
+<stop offset="0.646123" stop-color="#4FF0B6"/>
+<stop offset="1" stop-color="#93FF86"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23.9906 1.02458) rotate(63.2939) scale(95.6936 306285)">
+<stop stop-color="#327BE6"/>
+<stop offset="0.646123" stop-color="#4FF0B6"/>
+<stop offset="1" stop-color="#93FF86"/>
+</radialGradient>
+</defs>
+</svg>
